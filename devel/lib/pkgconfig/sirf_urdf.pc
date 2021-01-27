@@ -1,0 +1,1 @@
+/home/gowtham/ws_moveit/devel/.private/sirf_urdf/lib/pkgconfig/sirf_urdf.pc

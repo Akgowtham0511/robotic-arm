@@ -1,0 +1,1 @@
+/home/gowtham/ws_moveit/devel/.private/three_degree_of_freedom/lib/pkgconfig/three_degree_of_freedom.pc

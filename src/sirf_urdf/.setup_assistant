@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/gowtham/sirf_urdf.urdf
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/three_dof_planar_manipulator.srdf
+  CONFIG:
+    author_name: gowtham
+    author_email: akgowtham0511@gmail.com
+    generated_timestamp: 1609307173

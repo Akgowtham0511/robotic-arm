@@ -1,0 +1,6 @@
+ros-moveit-arm/my_arm_xacro
+/home/gowtham/ws_moveit/devel/.private/my_arm_xacro/cmake.lock /home/gowtham/ws_moveit/devel/./cmake.lock
+/home/gowtham/ws_moveit/devel/.private/my_arm_xacro/share/my_arm_xacro/cmake/my_arm_xacroConfig.cmake /home/gowtham/ws_moveit/devel/share/my_arm_xacro/cmake/my_arm_xacroConfig.cmake
+/home/gowtham/ws_moveit/devel/.private/my_arm_xacro/share/my_arm_xacro/cmake/my_arm_xacroConfig-version.cmake /home/gowtham/ws_moveit/devel/share/my_arm_xacro/cmake/my_arm_xacroConfig-version.cmake
+/home/gowtham/ws_moveit/devel/.private/my_arm_xacro/lib/libtest_robot_arm_moveit_ikfast_plugin.so /home/gowtham/ws_moveit/devel/lib/libtest_robot_arm_moveit_ikfast_plugin.so
+/home/gowtham/ws_moveit/devel/.private/my_arm_xacro/lib/pkgconfig/my_arm_xacro.pc /home/gowtham/ws_moveit/devel/lib/pkgconfig/my_arm_xacro.pc

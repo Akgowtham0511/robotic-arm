@@ -1,0 +1,8 @@
+prefix=/home/gowtham/ws_moveit/devel/.private/panda
+
+Name: panda
+Description: Description of panda
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

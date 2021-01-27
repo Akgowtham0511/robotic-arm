@@ -1,0 +1,6 @@
+devel_space: /home/gowtham/ws_moveit/devel
+install: false
+install_space: /home/gowtham/ws_moveit/install
+profile: default
+source_space: /home/gowtham/ws_moveit/src
+workspace: /home/gowtham/ws_moveit

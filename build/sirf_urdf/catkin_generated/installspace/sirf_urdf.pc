@@ -1,0 +1,8 @@
+prefix=/home/gowtham/ws_moveit/install
+
+Name: sirf_urdf
+Description: Description of sirf_urdf
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

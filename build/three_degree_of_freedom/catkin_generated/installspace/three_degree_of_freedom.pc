@@ -1,0 +1,8 @@
+prefix=/home/gowtham/ws_moveit/install
+
+Name: three_degree_of_freedom
+Description: Description of three_degree_of_freedom
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

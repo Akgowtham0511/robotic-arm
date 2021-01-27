@@ -1,0 +1,13 @@
+[01m[K/home/gowtham/ws_moveit/src/moveit_tutorials/doc/pick_place/src/pick_place_tutorial.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/gowtham/ws_moveit/src/moveit_tutorials/doc/pick_place/src/pick_place_tutorial.cpp:292:14:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K)[m[K’ token
+   pick(group/);
+[01;32m[K              ^[m[K
+[01m[K/home/gowtham/ws_moveit/src/moveit_tutorials/doc/pick_place/src/pick_place_tutorial.cpp:296:16:[m[K [01;31m[Kerror: [m[Ktoo many arguments to function ‘[01m[Kvoid place(moveit::planning_interface::MoveGroupInterface&)[m[K’
+   place(group,a);
+[01;32m[K                ^[m[K
+[01m[K/home/gowtham/ws_moveit/src/moveit_tutorials/doc/pick_place/src/pick_place_tutorial.cpp:141:6:[m[K [01;36m[Knote: [m[Kdeclared here
+ void place(moveit::planning_interface::MoveGroupInterface& group)
+[01;32m[K      ^[m[K
+make[2]: *** [doc/pick_place/CMakeFiles/pick_place_tutorial.dir/src/pick_place_tutorial.cpp.o] Error 1
+make[1]: *** [doc/pick_place/CMakeFiles/pick_place_tutorial.dir/all] Error 2
+make: *** [all] Error 2
